@@ -1,7 +1,7 @@
 # __nodemcu-nodejs__
-**
-A basic IoT solution which can injest data from a NodeMCU to a MERN app, and allows updation/deletion of input data from front-end. Includes user authentication.
-**
+*An IoT solution built to injest real-time data from a NodeMCU to a webapp developed on MERN stack.
+Designed to allow the end user to view input data, and update and delete saved data from front-end.
+Includes user authentication.*
 
 Back-end system in NodeJS that is able to ingest data from a single NodeMCU based electricity meter. Uses an MQTT client to receive this data.
 
@@ -15,7 +15,7 @@ ReactJS front-end uses the APIs to display the data a front-page (Measurements &
 
 Frontend & backend services are dockerized and run in docker containers.
 
-User authentication has been implemented using JSON Web Tokens between the frontend and backend (using middleware).
+User authentication has been implemented using JSON Web Tokens between the frontend and backend as middleware.
 
  
 
