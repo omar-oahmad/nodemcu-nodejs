@@ -1,5 +1,5 @@
 # __nodemcu-nodejs__
-*An IoT solution built to injest real-time data from a NodeMCU to a webapp developed on MERN stack.
+*An IoT solution built to ingest real-time data from a NodeMCU to a webapp developed on MERN stack.
 Designed to allow the end user to view input data, and update and delete saved data from front-end.
 Includes user authentication.*
 
